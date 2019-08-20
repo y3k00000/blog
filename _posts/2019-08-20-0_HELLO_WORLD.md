@@ -1,9 +1,15 @@
 ---
-title: Sample Page
-published: false
+title: Hello World!!
+published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# [](#header-1)開張拉~~
+
+唔嗯，就是這樣。
+
+主要是想要個空間整理自己發布的消息與與工作上的Note，這大概是目前看來最佳的解決方案了...?(´・ω・｀)
+
+<!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
 
@@ -122,3 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
