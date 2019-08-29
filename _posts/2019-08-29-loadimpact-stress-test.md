@@ -1,5 +1,5 @@
 ---
-title: "[NOTE] Load Impact"
+title: [NOTE] Load Impact
 published: true
 ---
 
